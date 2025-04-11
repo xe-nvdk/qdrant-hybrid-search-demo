@@ -1,0 +1,10 @@
+qdrant-client
+qdrant-client[fastembed]>=1.8.2
+sentence-transformers
+rank_bm25
+transformers
+scikit-learn
+numpy
+tqdm
+datasets
+scikit-learn
